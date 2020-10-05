@@ -1,0 +1,13 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.deps.json
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.runtimeconfig.json
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.runtimeconfig.dev.json
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\bin\Debug\netcoreapp3.1\ISMFirstConsoleProject.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.AssemblyInfo.cs
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.dll
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMFirstSolution\ISMFirstConsoleProject\obj\Debug\netcoreapp3.1\ISMFirstConsoleProject.genruntimeconfig.cache
